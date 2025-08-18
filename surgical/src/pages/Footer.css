@@ -1,0 +1,9 @@
+/* src/pages/Footer.css */
+.footer {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 15px 0;
+  width: 100%;
+  font-size: 14px;
+}
